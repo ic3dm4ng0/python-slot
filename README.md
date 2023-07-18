@@ -9,7 +9,7 @@ An advanced, text-based Python slot machine
 
 ## Drawbacks
 - Not usable without internet due to reliance on [random.org API](https://www.random.org/clients/http/) calls
-- RTP not determined (I am not a mathematician!)
+- RTP might be super high or low (I have not calculated it). If anybody knows how to fix the paytable to ensure a 95% RTP, open an issue and I'll change the payouts.
 
 # Setup
 1. Download and extract the source code
